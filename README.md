@@ -8,21 +8,22 @@
 
 ---
 
-<!-- Banner de skills -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Dev%20Júnior-Back-end-blue?style=for-the-badge&logo=dev&logoColor=white" />
-  <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/COBOL-EDEDED?style=for-the-badge&logo=coffeescript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-
+## ⚡ Tecnologias e Skills
+<div align="center" style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="60" height="60" style="border-radius: 50%;" alt="Laravel" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" style="border-radius: 50%;" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" style="border-radius: 50%;" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60" height="60" style="border-radius: 50%;" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60" style="border-radius: 50%;" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="60" height="60" style="border-radius: 50%;" alt="Angular" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60" style="border-radius: 50%;" alt="Java" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Cobol_logo.svg" width="60" height="60" style="border-radius: 50%;" alt="COBOL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="60" height="60" style="border-radius: 50%;" alt="Spring Boot" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60" style="border-radius: 50%;" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60" height="60" style="border-radius: 50%;" alt="C" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60" style="border-radius: 50%;" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="60" height="60" style="border-radius: 50%;" alt="Jupyter Notebook" />
+</div>
 
 ---
 
@@ -36,7 +37,7 @@
 
 ## 📈 Skills em Gráfico Circular
 <div align="center">
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['React','Angular','Laravel','PHP','JS','Java','Spring Boot','Docker','MySQL','Jupyter','COBOL'],datasets:[{data:[90,80,85,85,95,80,70,75,85,70,60],backgroundColor:['#61DAFB','#DD0031','#FF2D20','#777BB4','#F7DF1E','#007396','#6DB33F','#2496ED','#4479A1','#F37626','#EDEDED']}]},options:{plugins:{doughnutlabel:{labels:[{text:'Skills',font:{size:20}}]}}}}" alt="Skills Donut Chart" width="400"/>
+  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['React','Angular','Laravel','Python','PHP','JS','TypeScript','Java','Spring Boot','Docker','C','Node.js','Jupyter','COBOL'],datasets:[{data:[90,80,85,85,85,95,80,80,70,75,70,75,70,60],backgroundColor:['#61DAFB','#DD0031','#FF2D20','#3776AB','#777BB4','#F7DF1E','#3178C6','#007396','#6DB33F','#2496ED','#00599C','#339933','#F37626','#EDEDED']}]},options:{plugins:{doughnutlabel:{labels:[{text:'Skills',font:{size:20}}]}}}}" alt="Skills Donut Chart" width="400"/>
 </div>
 
 ---
