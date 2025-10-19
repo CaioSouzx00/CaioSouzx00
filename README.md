@@ -8,20 +8,21 @@
 
 ---
 
-## ⚡ Tecnologias e Ferramentas
-<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="70" height="70" style="border-radius: 50%;" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="70" height="70" style="border-radius: 50%;" alt="Angular" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="70" height="70" style="border-radius: 50%;" alt="Laravel" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="70" height="70" style="border-radius: 50%;" alt="PHP" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70" height="70" style="border-radius: 50%;" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="70" height="70" style="border-radius: 50%;" alt="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="70" height="70" style="border-radius: 50%;" alt="Spring Boot" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="70" height="70" style="border-radius: 50%;" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="70" height="70" style="border-radius: 50%;" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="70" height="70" style="border-radius: 50%;" alt="Jupyter Notebook" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Cobol_logo.svg" width="70" height="70" style="border-radius: 50%;" alt="COBOL" />
-</div>
+<!-- Banner de skills -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Dev%20Júnior-Back-end-blue?style=for-the-badge&logo=dev&logoColor=white" />
+  <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/COBOL-EDEDED?style=for-the-badge&logo=coffeescript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
 
 ---
 
