@@ -11,12 +11,16 @@
 ## ⚡ Tecnologias e Ferramentas
 <div align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="70" height="70" style="border-radius: 50%;" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="70" height="70" style="border-radius: 50%;" alt="Angular" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="70" height="70" style="border-radius: 50%;" alt="Laravel" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="70" height="70" style="border-radius: 50%;" alt="PHP" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70" height="70" style="border-radius: 50%;" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="70" height="70" style="border-radius: 50%;" alt="Java" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="70" height="70" style="border-radius: 50%;" alt="Spring Boot" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="70" height="70" style="border-radius: 50%;" alt="Docker" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="70" height="70" style="border-radius: 50%;" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="70" height="70" style="border-radius: 50%;" alt="Jupyter Notebook" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Cobol_logo.svg" width="70" height="70" style="border-radius: 50%;" alt="COBOL" />
 </div>
 
 ---
@@ -29,9 +33,16 @@
 
 ---
 
+## 📈 Skills em Gráfico Circular
+<div align="center">
+  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['React','Angular','Laravel','PHP','JS','Java','Spring Boot','Docker','MySQL','Jupyter','COBOL'],datasets:[{data:[90,80,85,85,95,80,70,75,85,70,60],backgroundColor:['#61DAFB','#DD0031','#FF2D20','#777BB4','#F7DF1E','#007396','#6DB33F','#2496ED','#4479A1','#F37626','#EDEDED']}]},options:{plugins:{doughnutlabel:{labels:[{text:'Skills',font:{size:20}}]}}}}" alt="Skills Donut Chart" width="400"/>
+</div>
+
+---
+
 ## 🌐 Conexões e Contato
 <div align="center" style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/caiodaniel" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/caio-daniel-45b531319" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 15px;" />
   </a>
   <a href="mailto:caiodaniel.dev@gmail.com">
@@ -40,11 +51,4 @@
   <a href="https://github.com/CaioSouzx00" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 15px;" />
   </a>
-</div>
-
----
-
-## 📈 Skills em Gráfico Circular
-<div align="center">
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['React','Laravel','PHP','JS','Spring Boot','Docker','MySQL'],datasets:[{data:[90,80,85,95,70,75,85],backgroundColor:['#61DAFB','#FF2D20','#777BB4','#F7DF1E','#6DB33F','#2496ED','#4479A1']}]},options:{plugins:{doughnutlabel:{labels:[{text:'Skills',font:{size:20}}]}}}}" alt="Skills Donut Chart" width="400"/>
 </div>
