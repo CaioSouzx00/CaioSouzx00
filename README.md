@@ -1,27 +1,21 @@
-
-<h1 align="center">👋 Olá, eu sou Caio Daniel</h1>
-<h3 align="center">💻 Full Stack Developer | 🚀 Apaixonado por tecnologia</h3>
+<h1 align="center">☕ Caio Daniel</h1>
+<h3 align="center">Full Stack Developer | Java • Laravel • React</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220" />
+  <img src="https://i.imgur.com/2yaf2wb.png" width="320" alt="Java Meme" />
 </p>
 
 ---
 
-## ⚡ Tecnologias & Skills
+## ⚡ Stack & Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,python,js,ts,react,angular,java,spring,nodejs,docker,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,laravel,php,react,angular,js,ts,nodejs,python,docker,c&theme=dark" />
 </p>
-
-> 💡 **Obs:** Usei o `skillicons.dev` porque:
-> - funciona no GitHub
-> - ícones sempre carregam
-> - visual limpo e moderno
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=CaioSouzx00&show_icons=true&theme=radical&hide_border=true" />
@@ -30,17 +24,34 @@
 
 ---
 
-## 🧠 Sobre mim
+## 📈 Atividade & Produtividade
 
-- 🎓 Estudante técnico e desenvolvedor Full Stack  
-- 🔥 Foco em **Laravel, React e Back-end**
-- 🗄️ Curto muito **banco de dados e arquitetura**
-- 🐳 Experiência com **Docker e ambientes Linux**
-- 🏀 Dentro de quadra: **Pará** | Fora dela: **Caio**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioSouzx00&theme=redical&hide_border=true" />
+</p>
 
 ---
 
-## 🌐 Contato & Redes
+## 🔥 Streak de Commits
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CaioSouzx00&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Sobre mim
+
+- 💻 Desenvolvedor **Full Stack**
+- ☕ Forte em **Java & Spring Boot**
+- 🧱 Experiência com **Laravel e APIs REST**
+- 🗄️ Interesse profundo em **banco de dados e arquitetura**
+- 🐳 Uso de **Docker** e ambientes Linux
+- 🚀 Foco em performance, organização e boas práticas
+
+---
+
+## 🌐 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/caio-daniel-45b531319">
