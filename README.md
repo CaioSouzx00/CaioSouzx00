@@ -1,10 +1,6 @@
 <h1 align="center">☕ Caio Daniel</h1>
 <h3 align="center">Full Stack Developer | Java • Laravel • React</h3>
 
-<p align="center">
-  <img src="https://i.imgur.com/2yaf2wb.png" width="320" alt="Java Meme" />
-</p>
-
 ---
 
 ## ⚡ Stack & Tecnologias
