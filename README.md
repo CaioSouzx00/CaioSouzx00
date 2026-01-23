@@ -1,34 +1,48 @@
-<h1 align="center">☕ Caio Daniel</h1>
-<h3 align="center">Full Stack Developer | Java • Laravel • React</h3>
+<!-- ===================== BANNER TOPO ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Caio%20Daniel&fontSize=55&fontAlignY=38&animation=fadeIn" />
+</p>
 
----
-
-## ⚡ Stack & Tecnologias
+<h3 align="center">
+  ☕ Full Stack Developer • Java • Laravel • React • Arquitetura de Sistemas
+</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,laravel,php,react,angular,js,ts,nodejs,python,docker,c&theme=dark" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=24&center=true&vCenter=true&width=600&lines=Backend+Driven+Mindset;Clean+Code+%7C+Scalable+Systems;APIs+%7C+Databases+%7C+Cloud+Ready;Always+Building+%F0%9F%9A%80" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ===================== STACK ===================== -->
+## 🧩 Stack Principal
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CaioSouzx00&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSouzx00&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=java,spring,laravel,php,react,js,ts,nodejs,python,docker,postgres,mysql,linux,git&theme=dark" />
 </p>
 
 ---
 
-## 📈 Atividade & Produtividade
+<!-- ===================== GITHUB STATS ===================== -->
+## 📊 Performance no GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioSouzx00&theme=redical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CaioSouzx00&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSouzx00&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Streak de Commits
+<!-- ===================== ACTIVITY ===================== -->
+## 📈 Atividade & Consistência
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioSouzx00&theme=radical&hide_border=true&area=true" />
+</p>
+
+---
+
+<!-- ===================== STREAK ===================== -->
+## 🔥 Streak de Disciplina
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CaioSouzx00&theme=radical&hide_border=true" />
@@ -36,27 +50,16 @@
 
 ---
 
-## 🧠 Sobre mim
+<!-- ===================== SOBRE ===================== -->
+## 🧠 Sobre Mim
 
-- 💻 Desenvolvedor **Full Stack**
-- ☕ Forte em **Java & Spring Boot**
-- 🧱 Experiência com **Laravel e APIs REST**
-- 🗄️ Interesse profundo em **banco de dados e arquitetura**
-- 🐳 Uso de **Docker** e ambientes Linux
-- 🚀 Foco em performance, organização e boas práticas
+```txt
+🎯 Perfil Técnico:
+- Desenvolvedor Full Stack com mentalidade Backend-first
+- Forte em Java, Spring Boot e arquitetura de sistemas
+- APIs REST, bancos relacionais e modelagem de dados
+- Docker, Linux e ambientes escaláveis
+- Código limpo, organização e performance como prioridade
 
----
-
-## 🌐 Contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/caio-daniel-45b531319">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:caiodaniel.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/CaioSouzx00">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+🚀 Mentalidade:
+Construo sistemas pensando em crescimento, manutenção e impacto real.
