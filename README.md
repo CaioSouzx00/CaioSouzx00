@@ -41,13 +41,46 @@
 
 ---
 
-<!-- ===================== STREAK ===================== -->
-## 🔥 Streak de Disciplina
+<!-- ===================== PROJETOS POR STACK ===================== -->
+## 🏆 Projetos por Stack
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CaioSouzx00&theme=radical&hide_border=true"
-       onerror="this.onerror=null;this.src='https://streak-stats.demolab.com?user=CaioSouzx00&theme=radical&hide_border=true';" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>⚛️ React</h3>
+      <a href="https://github.com/CaioSouzx00/ReplicaSpotify">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioSouzx00&repo=ReplicaSpotify&theme=radical&hide_border=true" />
+      </a>
+      <p>
+        Front-end moderno inspirado no Spotify, com foco em UX, componentes reutilizáveis e consumo de APIs.
+      </p>
+      <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    </td>
+
+    <td align="center" width="33%">
+      <h3>🧱 Laravel</h3>
+      <a href="https://github.com/CaioSouzx00/Hydrax">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioSouzx00&repo=Hydrax&theme=radical&hide_border=true" />
+      </a>
+      <p>
+        Plataforma web com arquitetura MVC, APIs REST, autenticação e sistema de e-mails com design moderno.
+      </p>
+      <img src="https://img.shields.io/badge/Laravel-Backend-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+    </td>
+
+    <td align="center" width="33%">
+      <h3>☕ Java</h3>
+      <a href="https://github.com/CaioSouzx00/Agregador-de-Investimentos">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioSouzx00&repo=Agregador-de-Investimentos&theme=radical&hide_border=true" />
+      </a>
+      <p>
+        Sistema backend para agregação de dados financeiros, com foco em arquitetura, APIs e modelagem de dados.
+      </p>
+      <img src="https://img.shields.io/badge/Java-Backend-007396?style=for-the-badge&logo=java&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 
 
 ---
