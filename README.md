@@ -26,50 +26,38 @@
 ## 📊 Performance no GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CaioSouzx00&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CaioSouzx00&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSouzx00&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-<!-- ===================== ACTIVITY ===================== -->
+<!-- ===================== ATIVIDADE ===================== -->
 ## 📈 Atividade & Consistência
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioSouzx00&theme=radical&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioSouzx00&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-<!-- ===================== SUPER METRICS ===================== -->
-## 🚀 Super Métricas de Desenvolvimento
+<!-- ===================== STREAK ===================== -->
+## 🔥 Streak de Commits
 
 <p align="center">
-  <!-- 3D Contribution Graph -->
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=CaioSouzx00&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CaioSouzx00&theme=react&hide_border=true" />
 </p>
 
 ---
 
+<!-- ===================== TROFÉUS ===================== -->
+## 🏆 Conquistas no GitHub
+
 <p align="center">
-  <!-- Commit Metrics / Horários -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CaioSouzx00&theme=radical&hide_border=true&layout=compact" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CaioSouzx00&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
-
-<p align="center">
-  <!-- Trophy Board -->
-  <img src="https://github-profile-trophy.vercel.app/?username=CaioSouzx00&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-<p align="center">
-  <!-- Detailed Metrics -->
-  <img src="https://metrics.lecoq.io/CaioSouzx00?template=classic&config.timezone=America/Sao_Paulo&languages=1&followup=1&activity=1&stars=1&repositories=1&people=1&achievements=1&lines=1&habits=1&introduction=1&isocalendar=1&theme=dark" />
-</p>
-
 
 <!-- ===================== PROJETOS POR STACK ===================== -->
 ## 🏆 Projetos por Stack
@@ -124,8 +112,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Backend-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
-
-
 
 ---
 
