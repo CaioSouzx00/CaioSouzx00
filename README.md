@@ -39,43 +39,26 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioSouzx00&theme=react-dark&hide_border=true&area=true" />
 </p>
 
-
-
-Se você quiser, eu deixo isso no estilo **terminal fake animado**
-
 ---
 
-## 3️⃣ GitHub Stats PRO (Mais limpo que o padrão)
+<!-- ===================== CALENDÁRIO ===================== -->
+## 📅 Calendário de Contribuições
 
-Esse fica mais elegante que o comum:
-
-```md
-<!-- ===================== STATS ===================== -->
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CaioSouzx00&show_icons=true&theme=react&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSouzx00&layout=compact&theme=react&hide_border=true" />
-</p>
-
----
-
-
-### 📅 Calendário de Contribuições
 > Abaixo você vê meu padrão real de commits direto do GitHub — consistência, disciplina e evolução ao longo do tempo.
 
 <p align="center">
   <img src="https://ghchart.rshah.org/409ba5/CaioSouzx00" />
 </p>
 
+---
 
-
-<!-- ===================== PROJETOS POR STACK ===================== -->
+<!-- ===================== PROJETOS ===================== -->
 ## 🏆 Projetos por Stack
 
 ---
 
 ### ⚛️ React — Replica Spotify
+
 <p align="center">
   <a href="https://github.com/CaioSouzx00/ReplicaSpotify">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioSouzx00&repo=ReplicaSpotify&theme=radical&hide_border=true" />
@@ -93,6 +76,7 @@ Esse fica mais elegante que o comum:
 ---
 
 ### 🧱 Laravel — Hydrax
+
 <p align="center">
   <a href="https://github.com/CaioSouzx00/Hydrax">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioSouzx00&repo=Hydrax&theme=radical&hide_border=true" />
@@ -110,6 +94,7 @@ Esse fica mais elegante que o comum:
 ---
 
 ### ☕ Java — Agregador de Investimentos
+
 <p align="center">
   <a href="https://github.com/CaioSouzx00/Agregador-de-Investimentos">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioSouzx00&repo=Agregador-de-Investimentos&theme=radical&hide_border=true" />
@@ -139,10 +124,13 @@ Esse fica mais elegante que o comum:
 
 🚀 Mentalidade:
 Construo sistemas pensando em crescimento, manutenção e impacto real.
- ```
+
+
+```
+
 
 
 <!-- ===================== CONTATO ===================== -->
 🌐 Conexões Profissionais
 <p align="center"> <a href="https://www.linkedin.com/in/caio-daniel-45b531319"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:caiodaniel.dev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/CaioSouzx00"> <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-<!-- ===================== BANNER FINAL ===================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer" /> </p> ```
+<!-- ===================== BANNER FINAL ===================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer" /> </p>
