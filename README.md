@@ -39,13 +39,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioSouzx00&theme=react-dark&hide_border=true&area=true" />
 </p>
 
----
 
 <!-- ===================== STREAK ===================== -->
 ## 🔥 Streak de Commits
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CaioSouzx00&theme=react&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=CaioSouzx00&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -54,10 +53,9 @@
 ## 🏆 Conquistas no GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CaioSouzx00&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CaioSouzx00&theme=darkhub&no-frame=true&margin-w=15" />
 </p>
 
----
 
 <!-- ===================== PROJETOS POR STACK ===================== -->
 ## 🏆 Projetos por Stack
@@ -128,10 +126,7 @@
 
 🚀 Mentalidade:
 Construo sistemas pensando em crescimento, manutenção e impacto real.
-
-
-
-
+ ```
 
 
 <!-- ===================== CONTATO ===================== -->
