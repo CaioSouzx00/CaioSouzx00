@@ -40,21 +40,24 @@
 </p>
 
 
-<!-- ===================== STREAK ===================== -->
-## 🔥 Streak de Commits
+<!-- ===================== COMMITS & ATIVIDADE ===================== -->
+## 📊 Commits & Atividade
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CaioSouzx00&theme=dark&hide_border=true" />
+  <a href="https://github.com/CaioSouzx00">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioSouzx00&theme=github-dark&hide_border=true" />
+  </a>
 </p>
 
 ---
 
-<!-- ===================== TROFÉUS ===================== -->
-## 🏆 Conquistas no GitHub
+### 📅 Calendário de Contribuições
+> Abaixo você vê meu padrão real de commits direto do GitHub — consistência, disciplina e evolução ao longo do tempo.
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CaioSouzx00&theme=darkhub&no-frame=true&margin-w=15" />
+  <img src="https://ghchart.rshah.org/409ba5/CaioSouzx00" />
 </p>
+
 
 
 <!-- ===================== PROJETOS POR STACK ===================== -->
