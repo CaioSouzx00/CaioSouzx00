@@ -40,16 +40,26 @@
 </p>
 
 
-<!-- ===================== COMMITS & ATIVIDADE ===================== -->
-## 📊 Commits & Atividade
+
+Se você quiser, eu deixo isso no estilo **terminal fake animado**
+
+---
+
+## 3️⃣ GitHub Stats PRO (Mais limpo que o padrão)
+
+Esse fica mais elegante que o comum:
+
+```md
+<!-- ===================== STATS ===================== -->
+## 📈 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/CaioSouzx00">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioSouzx00&theme=github-dark&hide_border=true" />
-  </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CaioSouzx00&show_icons=true&theme=react&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSouzx00&layout=compact&theme=react&hide_border=true" />
 </p>
 
 ---
+
 
 ### 📅 Calendário de Contribuições
 > Abaixo você vê meu padrão real de commits direto do GitHub — consistência, disciplina e evolução ao longo do tempo.
