@@ -41,6 +41,36 @@
 
 ---
 
+<!-- ===================== SUPER METRICS ===================== -->
+## 🚀 Super Métricas de Desenvolvimento
+
+<p align="center">
+  <!-- 3D Contribution Graph -->
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=CaioSouzx00&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+  <!-- Commit Metrics / Horários -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CaioSouzx00&theme=radical&hide_border=true&layout=compact" />
+</p>
+
+---
+
+<p align="center">
+  <!-- Trophy Board -->
+  <img src="https://github-profile-trophy.vercel.app/?username=CaioSouzx00&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+<p align="center">
+  <!-- Detailed Metrics -->
+  <img src="https://metrics.lecoq.io/CaioSouzx00?template=classic&config.timezone=America/Sao_Paulo&languages=1&followup=1&activity=1&stars=1&repositories=1&people=1&achievements=1&lines=1&habits=1&introduction=1&isocalendar=1&theme=dark" />
+</p>
+
+
 <!-- ===================== PROJETOS POR STACK ===================== -->
 ## 🏆 Projetos por Stack
 
