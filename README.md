@@ -44,42 +44,56 @@
 <!-- ===================== PROJETOS POR STACK ===================== -->
 ## 🏆 Projetos por Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>⚛️ React</h3>
-      <a href="https://github.com/CaioSouzx00/ReplicaSpotify">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioSouzx00&repo=ReplicaSpotify&theme=radical&hide_border=true" />
-      </a>
-      <p>
-        Front-end moderno inspirado no Spotify, com foco em UX, componentes reutilizáveis e consumo de APIs.
-      </p>
-      <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    </td>
+---
 
-    <td align="center" width="33%">
-      <h3>🧱 Laravel</h3>
-      <a href="https://github.com/CaioSouzx00/Hydrax">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioSouzx00&repo=Hydrax&theme=radical&hide_border=true" />
-      </a>
-      <p>
-        Plataforma web com arquitetura MVC, APIs REST, autenticação e sistema de e-mails com design moderno.
-      </p>
-      <img src="https://img.shields.io/badge/Laravel-Backend-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-    </td>
+### ⚛️ React — Replica Spotify
+<p align="center">
+  <a href="https://github.com/CaioSouzx00/ReplicaSpotify">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioSouzx00&repo=ReplicaSpotify&theme=radical&hide_border=true" />
+  </a>
+</p>
 
-    <td align="center" width="33%">
-      <h3>☕ Java</h3>
-      <a href="https://github.com/CaioSouzx00/Agregador-de-Investimentos">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioSouzx00&repo=Agregador-de-Investimentos&theme=radical&hide_border=true" />
-      </a>
-      <p>
-        Sistema backend para agregação de dados financeiros, com foco em arquitetura, APIs e modelagem de dados.
-      </p>
-      <img src="https://img.shields.io/badge/Java-Backend-007396?style=for-the-badge&logo=java&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  Front-end moderno inspirado no Spotify, com foco em UX, componentes reutilizáveis e consumo de APIs.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+---
+
+### 🧱 Laravel — Hydrax
+<p align="center">
+  <a href="https://github.com/CaioSouzx00/Hydrax">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioSouzx00&repo=Hydrax&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  Plataforma web em Laravel com arquitetura MVC, APIs REST e sistema de e-mails com layout moderno.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-Backend-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+
+---
+
+### ☕ Java — Agregador de Investimentos
+<p align="center">
+  <a href="https://github.com/CaioSouzx00/Agregador-de-Investimentos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioSouzx00&repo=Agregador-de-Investimentos&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  Backend em Java focado em agregação de dados financeiros, APIs e modelagem de dados.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Backend-007396?style=for-the-badge&logo=java&logoColor=white" />
+</p>
 
 
 
