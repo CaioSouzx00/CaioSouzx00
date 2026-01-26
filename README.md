@@ -120,7 +120,7 @@
 - Forte em Java, Spring Boot e arquitetura de sistemas
 - APIs REST, bancos relacionais e modelagem de dados
 - Docker, Linux e ambientes escaláveis
-- Código limpo, organização e performance como prioridade
+- Código limpo, organização e performance como prioridade 
 
 🚀 Mentalidade:
 Construo sistemas pensando em crescimento, manutenção e impacto real.
