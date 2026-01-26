@@ -17,7 +17,7 @@
 ## 🧩 Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,laravel,php,react,js,ts,nodejs,python,docker,c,<img src="https://skillicons.dev/icons?i=java,spring,laravel,php,react,js,ts,nodejs,nodejs,docker,c,file,postgres,mysql,linux,git&theme=dark" />,postgres,mysql,linux,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,laravel,php,react,js,ts,nodejs,python,docker,c,cobol,postgres,mysql,linux,git&theme=dark" />
 </p>
 
 ---
