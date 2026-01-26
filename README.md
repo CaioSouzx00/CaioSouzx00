@@ -17,7 +17,8 @@
 ## 🧩 Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,laravel,php,react,js,ts,nodejs,python,docker,c,cobol,postgres,mysql,linux,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,laravel,php,react,js,ts,nodejs,python,docker,c,<img src="https://github.com/seuusuario/assets/blob/main/cobol.svg?raw=true" width="40" />
+,postgres,mysql,linux,git&theme=dark" />
 </p>
 
 ---
@@ -121,3 +122,11 @@
 - APIs REST, bancos relacionais (MySQL/Postgres) e modelagem de dados
 - Docker, Linux e ambientes escaláveis
 - Código limpo, organizado e performance como prioridade 
+´´´
+```
+
+<!-- ===================== CONTATO ===================== -->
+
+🌐 Conexões Profissionais
+
+<p align="center"> <a href="https://www.linkedin.com/in/caio-daniel-45b531319"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:caiodaniel.dev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/CaioSouzx00"> <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> <!-- ===================== BANNER FINAL ===================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer" /> </p>
