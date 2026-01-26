@@ -17,7 +17,7 @@
 ## 🧩 Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,laravel,php,react,js,ts,nodejs,python,docker,postgres,mysql,linux,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,laravel,php,react,js,ts,nodejs,python,docker,c,cobol,postgres,mysql,linux,git&theme=dark" />
 </p>
 
 ---
@@ -117,20 +117,7 @@
 ```txt
 🎯 Perfil Técnico:
 - Desenvolvedor Full Stack com mentalidade Backend-first
-- Forte em Java, Spring Boot e arquitetura de sistemas
-- APIs REST, bancos relacionais e modelagem de dados
+- Experiência com Java, Spring Boot, Laravel, JSExpress, PHP, C e Cobol
+- APIs REST, bancos relacionais (MySQL/Postgres) e modelagem de dados
 - Docker, Linux e ambientes escaláveis
-- Código limpo, organização e performance como prioridade 
-
-🚀 Mentalidade:
-Construo sistemas pensando em crescimento, manutenção e impacto real.
-
-
-```
-
-
-
-<!-- ===================== CONTATO ===================== -->
-🌐 Conexões Profissionais
-<p align="center"> <a href="https://www.linkedin.com/in/caio-daniel-45b531319"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:caiodaniel.dev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/CaioSouzx00"> <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-<!-- ===================== BANNER FINAL ===================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer" /> </p>
+- Código limpo, organizado e performance como prioridade 
