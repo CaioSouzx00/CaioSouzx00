@@ -1,20 +1,19 @@
 <!-- ===================== BANNER TOPO ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Caio%20Daniel&fontSize=55&fontAlignY=38&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Caio%20Daniel&fontSize=55&fontAlignY=38&animation=fadeIn" />
 </p>
 
 <h3 align="center">
-  ☕ Full Stack Developer • Java • Laravel • React • Arquitetura de Sistemas
+  ☕ Software Engineer • Backend-Focused • Sistemas Escaláveis • Arquitetura & Dados
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=24&center=true&vCenter=true&width=600&lines=Backend+Driven+Mindset;Clean+Code+%7C+Scalable+Systems;APIs+%7C+Databases+%7C+Cloud+Ready;Always+Building+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&size=24&center=true&vCenter=true&width=700&lines=Designing+APIs+%7C+Modeling+Data+%7C+Scaling+Systems;Clean+Code+%7C+Performance+%7C+Reliability;Backend+First+Mindset+%F0%9F%9A%80" />
 </p>
 
 ---
 
-<!-- ===================== STACK ===================== -->
-## 🧩 Stack Principal
+## 🧩 Engenharia & Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,laravel,php,react,js,ts,nodejs,python,docker,c,postgres,mysql,linux,git&theme=dark" />
@@ -22,90 +21,69 @@
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
-## 📊 Performance no GitHub
+## 📊 Métricas Técnicas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CaioSouzx00&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSouzx00&layout=compact&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CaioSouzx00&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CaioSouzx00&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-<!-- ===================== ATIVIDADE ===================== -->
-## 📈 Atividade & Consistência
+## 📈 Consistência de Engenharia
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioSouzx00&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioSouzx00&theme=github-dark&hide_border=true&radius=8&area=true" />
 </p>
 
 ---
 
+## 🏗️ Projetos em Destaque
 
 ### ⚛️ React — Replica Spotify
-
 <p align="center">
   <a href="https://github.com/CaioSouzx00/ReplicaSpotify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioSouzx00&repo=ReplicaSpotify&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=CaioSouzx00&repo=ReplicaSpotify&theme=github_dark&hide_border=true" />
   </a>
 </p>
-
 <p align="center">
-  Front-end moderno inspirado no Spotify, com foco em UX, componentes reutilizáveis e consumo de APIs.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  Interface moderna focada em arquitetura de componentes, consumo de APIs e experiência do usuário.
 </p>
 
 ---
 
 ### 🧱 Laravel — Hydrax
-
 <p align="center">
   <a href="https://github.com/CaioSouzx00/Hydrax">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioSouzx00&repo=Hydrax&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=CaioSouzx00&repo=Hydrax&theme=github_dark&hide_border=true" />
   </a>
 </p>
-
 <p align="center">
-  Plataforma web em Laravel com arquitetura MVC, APIs REST e sistema de e-mails com layout moderno.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-Backend-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  Plataforma web com arquitetura MVC, APIs REST, modelagem relacional e sistema de e-mails transacionais.
 </p>
 
 ---
 
 ### ☕ Java — Agregador de Investimentos
-
 <p align="center">
   <a href="https://github.com/CaioSouzx00/Agregador-de-Investimentos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaioSouzx00&repo=Agregador-de-Investimentos&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=CaioSouzx00&repo=Agregador-de-Investimentos&theme=github_dark&hide_border=true" />
   </a>
 </p>
-
 <p align="center">
-  Backend em Java focado em agregação de dados financeiros, APIs e modelagem de dados.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-Backend-007396?style=for-the-badge&logo=java&logoColor=white" />
+  Backend orientado a domínio para agregação financeira, persistência relacional e APIs de integração.
 </p>
 
 ---
 
-<!-- ===================== SOBRE ===================== -->
-## 🧠 Sobre Mim
+## 🧠 Perfil Técnico
 
 ```txt
-🎯 Perfil Técnico:
-- Desenvolvedor Full Stack com mentalidade Backend-first
-- Experiência com Java, Spring Boot, Laravel, JSExpress, PHP, C e Cobol
-- APIs REST, bancos relacionais (MySQL/Postgres) e modelagem de dados
-- Docker, Linux e ambientes escaláveis
-- Código limpo, organizado e performance como prioridade 
+- Engenharia de software com foco em backend e arquitetura de sistemas
+- APIs REST, modelagem de dados e bancos relacionais (PostgreSQL / MySQL)
+- Docker, Linux e ambientes conteinerizados
+- Princípios de código limpo, performance e escalabilidade
+- Experiência com Java, Spring Boot, Laravel, C e Cobol 
 ´´´
 ```
 
