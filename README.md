@@ -41,17 +41,6 @@
 
 ---
 
-<!-- ===================== CALENDÁRIO ===================== -->
-## 📅 Calendário de Contribuições
-
-> Abaixo você vê meu padrão real de commits direto do GitHub — consistência, disciplina e evolução ao longo do tempo.
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/CaioSouzx00" />
-</p>
-
----
-
 <!-- ===================== PROJETOS ===================== -->
 ## 🏆 Projetos por Stack
 
