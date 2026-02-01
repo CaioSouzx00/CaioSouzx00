@@ -41,10 +41,6 @@
 
 ---
 
-<!-- ===================== PROJETOS ===================== -->
-## 🏆 Projetos por Stack
-
----
 
 ### ⚛️ React — Replica Spotify
 
