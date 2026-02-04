@@ -24,9 +24,10 @@
 ## 📊 Métricas Técnicas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CaioSouzx00&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSouzx00&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CaioSouzx00&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&v=1" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSouzx00&layout=compact&theme=github_dark&hide_border=true&v=1" />
 </p>
+
 
 
 ---
