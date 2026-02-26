@@ -13,8 +13,16 @@
 ## 📊 Métricas Técnicas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioSouzx00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSouzx00&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=CaioSouzx00&cc=0d1117&tc=70a5fd&ic=bf91f3&bc=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioSouzx00&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CaioSouzx00&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CaioSouzx00&theme=tokyonight" />
 </p>
 
 ---
