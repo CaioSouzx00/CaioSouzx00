@@ -115,25 +115,6 @@ C             ██████░░░░░░  intermediário
 
 ---
 
-## 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=CaioSouzx00&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
----
-
-## 🚀 Projetos em Destaque
-
-<div align="center">
-
-[![Hydrax](https://github-readme-stats.vercel.app/api/pin/?username=CaioSouzx00&repo=hydrax&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/CaioSouzx00/hydrax)
-[![Investment Aggregator](https://github-readme-stats.vercel.app/api/pin/?username=CaioSouzx00&repo=investment-aggregator&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/CaioSouzx00/investment-aggregator)
-
-</div>
-
 <br/>
 
 | Projeto | Stack | Arquitetura | Status |
