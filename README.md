@@ -14,23 +14,32 @@ Arquitetura de sistemas  ·  APIs escaláveis  ·  Automação & Cloud
 <p>
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
   <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
   <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4" />
   <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933" />
 </p>
 <p>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=0175C2" />
+  <img src="https://img.shields.io/badge/Hono-000000?style=for-the-badge&logo=hono&logoColor=E36002" />
+</p>
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=F80000" />
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Hono-000000?style=for-the-badge&logo=hono&logoColor=E36002" />
-  <img src="https://img.shields.io/badge/COBOL-000000?style=for-the-badge&logo=ibm&logoColor=052FAD" />
+  <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC" />
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/COBOL-000000?style=for-the-badge&logo=ibm&logoColor=052FAD" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=EA4B71" />
@@ -60,7 +69,10 @@ Arquitetura de sistemas  ·  APIs escaláveis  ·  Automação & Cloud
 ![PHP](https://img.shields.io/badge/PHP-avançado-000000?style=flat-square&logo=php&logoColor=777BB4)<br/>
 ![Laravel](https://img.shields.io/badge/Laravel-avançado-000000?style=flat-square&logo=laravel&logoColor=FF2D20)<br/>
 ![Node.js](https://img.shields.io/badge/Node.js-avançado-000000?style=flat-square&logo=node.js&logoColor=339933)<br/>
-![Hono RPC](https://img.shields.io/badge/Hono_RPC-intermediário-000000?style=flat-square&logo=hono&logoColor=E36002)
+![Hono RPC](https://img.shields.io/badge/Hono_RPC-intermediário-000000?style=flat-square&logo=hono&logoColor=E36002)<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-intermediário-000000?style=flat-square&logo=fastapi&logoColor=009688)<br/>
+![Kotlin](https://img.shields.io/badge/Kotlin-intermediário-000000?style=flat-square&logo=kotlin&logoColor=7F52FF)<br/>
+![Dart](https://img.shields.io/badge/Dart-intermediário-000000?style=flat-square&logo=dart&logoColor=0175C2)
 
 </td>
     <td valign="top" width="25%" align="center">
@@ -69,6 +81,8 @@ Arquitetura de sistemas  ·  APIs escaláveis  ·  Automação & Cloud
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-principal-000000?style=flat-square&logo=postgresql&logoColor=4169E1)<br/>
 ![MySQL](https://img.shields.io/badge/MySQL-avançado-000000?style=flat-square&logo=mysql&logoColor=4479A1)<br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-intermediário-000000?style=flat-square&logo=mongodb&logoColor=47A248)<br/>
+![Oracle](https://img.shields.io/badge/Oracle-intermediário-000000?style=flat-square&logo=oracle&logoColor=F80000)<br/>
 ![Docker](https://img.shields.io/badge/Docker-avançado-000000?style=flat-square&logo=docker&logoColor=2496ED)<br/>
 ![Linux](https://img.shields.io/badge/Linux-avançado-000000?style=flat-square&logo=linux&logoColor=FCC624)<br/>
 ![Git](https://img.shields.io/badge/Git-principal-000000?style=flat-square&logo=git&logoColor=F05032)
@@ -91,9 +105,10 @@ Arquitetura de sistemas  ·  APIs escaláveis  ·  Automação & Cloud
 
 ![React](https://img.shields.io/badge/React.js-intermediário-000000?style=flat-square&logo=react&logoColor=61DAFB)<br/>
 ![Next.js](https://img.shields.io/badge/Next.js-intermediário-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)<br/>
+![Vue.js](https://img.shields.io/badge/Vue.js-intermediário-000000?style=flat-square&logo=vuedotjs&logoColor=4FC08D)<br/>
 ![TypeScript](https://img.shields.io/badge/TypeScript-avançado-000000?style=flat-square&logo=typescript&logoColor=3178C6)<br/>
 ![COBOL](https://img.shields.io/badge/COBOL-intermediário-000000?style=flat-square&logo=ibm&logoColor=052FAD)<br/>
-![C](https://img.shields.io/badge/C-intermediário-000000?style=flat-square&logo=c&logoColor=A8B9CC)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-intermediário-000000?style=flat-square&logo=cplusplus&logoColor=00599C)
 
 </td>
   </tr>
