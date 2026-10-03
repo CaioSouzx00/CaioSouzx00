@@ -17,31 +17,31 @@ Arquitetura de sistemas  ·  APIs escaláveis  ·  Automação & Cloud
   <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
   <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4" />
   <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688" />
   <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=0175C2" />
   <img src="https://img.shields.io/badge/Hono-000000?style=for-the-badge&logo=hono&logoColor=E36002" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=F80000" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
-</p>
-<p>
   <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+<p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC" />
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
   <img src="https://img.shields.io/badge/COBOL-000000?style=for-the-badge&logo=ibm&logoColor=052FAD" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
 </p>
 <p>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=F80000" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=EA4B71" />
   <img src="https://img.shields.io/badge/Fly.io-000000?style=for-the-badge&logo=flydotio&logoColor=8B5CF6" />
   <img src="https://img.shields.io/badge/NVIDIA_NIM-000000?style=for-the-badge&logo=nvidia&logoColor=76B900" />
@@ -60,57 +60,64 @@ Arquitetura de sistemas  ·  APIs escaláveis  ·  Automação & Cloud
 
 <table>
   <tr>
-    <td valign="top" width="25%" align="center">
-
-<img src="https://img.shields.io/badge/BACK--END-1F6FEB?style=for-the-badge&logoColor=white" /><br/><br/>
-
-![Java](https://img.shields.io/badge/Java-principal-000000?style=flat-square&logo=openjdk&logoColor=ED8B00)<br/>
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-principal-000000?style=flat-square&logo=springboot&logoColor=6DB33F)<br/>
-![PHP](https://img.shields.io/badge/PHP-avançado-000000?style=flat-square&logo=php&logoColor=777BB4)<br/>
-![Laravel](https://img.shields.io/badge/Laravel-avançado-000000?style=flat-square&logo=laravel&logoColor=FF2D20)<br/>
-![Node.js](https://img.shields.io/badge/Node.js-avançado-000000?style=flat-square&logo=node.js&logoColor=339933)<br/>
-![Hono RPC](https://img.shields.io/badge/Hono_RPC-intermediário-000000?style=flat-square&logo=hono&logoColor=E36002)<br/>
-![FastAPI](https://img.shields.io/badge/FastAPI-intermediário-000000?style=flat-square&logo=fastapi&logoColor=009688)<br/>
-![Kotlin](https://img.shields.io/badge/Kotlin-intermediário-000000?style=flat-square&logo=kotlin&logoColor=7F52FF)<br/>
-![Dart](https://img.shields.io/badge/Dart-intermediário-000000?style=flat-square&logo=dart&logoColor=0175C2)
-
-</td>
-    <td valign="top" width="25%" align="center">
-
-<img src="https://img.shields.io/badge/DADOS_%26_DEVOPS-1F6FEB?style=for-the-badge&logoColor=white" /><br/><br/>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-principal-000000?style=flat-square&logo=postgresql&logoColor=4169E1)<br/>
-![MySQL](https://img.shields.io/badge/MySQL-avançado-000000?style=flat-square&logo=mysql&logoColor=4479A1)<br/>
-![MongoDB](https://img.shields.io/badge/MongoDB-intermediário-000000?style=flat-square&logo=mongodb&logoColor=47A248)<br/>
-![Oracle](https://img.shields.io/badge/Oracle-intermediário-000000?style=flat-square&logo=oracle&logoColor=F80000)<br/>
-![Docker](https://img.shields.io/badge/Docker-avançado-000000?style=flat-square&logo=docker&logoColor=2496ED)<br/>
-![Linux](https://img.shields.io/badge/Linux-avançado-000000?style=flat-square&logo=linux&logoColor=FCC624)<br/>
-![Git](https://img.shields.io/badge/Git-principal-000000?style=flat-square&logo=git&logoColor=F05032)
-
-</td>
-    <td valign="top" width="25%" align="center">
-
-<img src="https://img.shields.io/badge/CLOUD_%26_AUTOMAÇÃO-1F6FEB?style=for-the-badge&logoColor=white" /><br/><br/>
-
-![Fly.io](https://img.shields.io/badge/Fly.io-deploy%2Finfra-000000?style=flat-square&logo=flydotio&logoColor=8B5CF6)<br/>
-![n8n](https://img.shields.io/badge/n8n-automação%2Fia-000000?style=flat-square&logo=n8n&logoColor=EA4B71)<br/>
-![NVIDIA NIM](https://img.shields.io/badge/NVIDIA_NIM-llm_api-000000?style=flat-square&logo=nvidia&logoColor=76B900)<br/>
-![Webhooks](https://img.shields.io/badge/Webhooks-integrações-000000?style=flat-square&logo=webhooks&logoColor=FF6B6B)<br/>
-![CI/CD](https://img.shields.io/badge/CI%2FCD-github_actions-000000?style=flat-square&logo=githubactions&logoColor=2088FF)
-
-</td>
-    <td valign="top" width="25%" align="center">
-
-<img src="https://img.shields.io/badge/FRONT--END_%26_OUTROS-1F6FEB?style=for-the-badge&logoColor=white" /><br/><br/>
-
-![React](https://img.shields.io/badge/React.js-intermediário-000000?style=flat-square&logo=react&logoColor=61DAFB)<br/>
-![Next.js](https://img.shields.io/badge/Next.js-intermediário-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)<br/>
-![Vue.js](https://img.shields.io/badge/Vue.js-intermediário-000000?style=flat-square&logo=vuedotjs&logoColor=4FC08D)<br/>
-![TypeScript](https://img.shields.io/badge/TypeScript-avançado-000000?style=flat-square&logo=typescript&logoColor=3178C6)<br/>
-![COBOL](https://img.shields.io/badge/COBOL-intermediário-000000?style=flat-square&logo=ibm&logoColor=052FAD)<br/>
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-intermediário-000000?style=flat-square&logo=cplusplus&logoColor=00599C)
-
-</td>
+    <th width="25%"><img src="https://img.shields.io/badge/BACK--END-1F6FEB?style=for-the-badge&logoColor=white" /></th>
+    <th width="25%"><img src="https://img.shields.io/badge/DADOS_%26_DEVOPS-1F6FEB?style=for-the-badge&logoColor=white" /></th>
+    <th width="25%"><img src="https://img.shields.io/badge/CLOUD_%26_AUTOMAÇÃO-1F6FEB?style=for-the-badge&logoColor=white" /></th>
+    <th width="25%"><img src="https://img.shields.io/badge/FRONT--END_%26_OUTROS-1F6FEB?style=for-the-badge&logoColor=white" /></th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Java-principal-000000?style=flat-square&logo=openjdk&logoColor=ED8B00" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/PostgreSQL-principal-000000?style=flat-square&logo=postgresql&logoColor=4169E1" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Fly.io-deploy%2Finfra-000000?style=flat-square&logo=flydotio&logoColor=8B5CF6" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/React.js-intermediário-000000?style=flat-square&logo=react&logoColor=61DAFB" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Spring_Boot-principal-000000?style=flat-square&logo=springboot&logoColor=6DB33F" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/MySQL-avançado-000000?style=flat-square&logo=mysql&logoColor=4479A1" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/n8n-automação%2Fia-000000?style=flat-square&logo=n8n&logoColor=EA4B71" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Next.js-intermediário-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/PHP-avançado-000000?style=flat-square&logo=php&logoColor=777BB4" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/MongoDB-intermediário-000000?style=flat-square&logo=mongodb&logoColor=47A248" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/NVIDIA_NIM-llm_api-000000?style=flat-square&logo=nvidia&logoColor=76B900" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Vue.js-intermediário-000000?style=flat-square&logo=vuedotjs&logoColor=4FC08D" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Laravel-avançado-000000?style=flat-square&logo=laravel&logoColor=FF2D20" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Oracle-intermediário-000000?style=flat-square&logo=oracle&logoColor=F80000" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Webhooks-integrações-000000?style=flat-square&logo=webhooks&logoColor=FF6B6B" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/TypeScript-avançado-000000?style=flat-square&logo=typescript&logoColor=3178C6" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Node.js-avançado-000000?style=flat-square&logo=node.js&logoColor=339933" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Docker-avançado-000000?style=flat-square&logo=docker&logoColor=2496ED" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/CI%2FCD-github_actions-000000?style=flat-square&logo=githubactions&logoColor=2088FF" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/COBOL-intermediário-000000?style=flat-square&logo=ibm&logoColor=052FAD" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Hono_RPC-intermediário-000000?style=flat-square&logo=hono&logoColor=E36002" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Linux-avançado-000000?style=flat-square&logo=linux&logoColor=FCC624" /></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><img src="https://img.shields.io/badge/C%2FC%2B%2B-intermediário-000000?style=flat-square&logo=cplusplus&logoColor=00599C" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/FastAPI-intermediário-000000?style=flat-square&logo=fastapi&logoColor=009688" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Git-principal-000000?style=flat-square&logo=git&logoColor=F05032" /></td>
+    <td align="center">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Kotlin-intermediário-000000?style=flat-square&logo=kotlin&logoColor=7F52FF" /></td>
+    <td align="center">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Dart-intermediário-000000?style=flat-square&logo=dart&logoColor=0175C2" /></td>
+    <td align="center">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td align="center">&nbsp;</td>
   </tr>
 </table>
 
