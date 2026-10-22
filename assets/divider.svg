@@ -1,0 +1,24 @@
+<svg width="1000" height="24" viewBox="0 0 1000 24" fill="none" xmlns="http://www.w3.org/2000/svg" role="presentation">
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1D4ED8" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#1D4ED8" stop-opacity="0.65"/>
+      <stop offset="1" stop-color="#1D4ED8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#93C5FD" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#DBEAFE" stop-opacity="1"/>
+      <stop offset="1" stop-color="#93C5FD" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="11" width="1000" height="1" fill="url(#base)"/>
+
+  <rect x="-200" y="10.5" width="200" height="2" rx="1" fill="url(#shine)">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="1200 0" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="496" y="8" width="8" height="8" rx="1.5" fill="#0A0E17" stroke="#3B82F6" transform="rotate(45 500 12)">
+    <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+  </rect>
+</svg>
