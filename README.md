@@ -1,237 +1,168 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:052E16,100:00FF41&height=180&section=header&text=Caio%20Souza&fontSize=50&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Rust%20%C2%B7%20APIs%20%C2%B7%20AI%20Agents%20%C2%B7%20Privacy-Preserving%20Computation&descAlignY=58&descSize=18&descColor=86EFAC" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F0C,60:0F2A1D,100:065F46&height=200&section=header&text=Caio%20Souza&fontSize=54&fontColor=6EE7B7&fontAlignY=40&desc=Backend%20Engineer&descAlignY=60&descSize=20&descColor=34D399" />
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1200&color=34D399&center=true&vCenter=true&width=640&height=30&lines=Rust+%C2%B7+Sistemas+seguros+e+perform%C3%A1ticos;APIs+escal%C3%A1veis+%C2%B7+Java+%C2%B7+Spring+Boot;Agentes+de+IA+%C2%B7+NVIDIA+NIM+%C2%B7+Skills;Criptografia+Homom%C3%B3rfica+%C2%B7+Privacidade+por+design" />
 
-```
-Arquitetura de sistemas  ·  Rust  ·  Agentes de IA  ·  Criptografia Homomórfica
-```
+<br/><br/>
 
-<br/>
+<a href="https://github.com/CaioSouzx00"><img src="https://img.shields.io/badge/Rust-0F1A14?style=for-the-badge&logo=rust&logoColor=34D399" /></a>
+<a href="https://github.com/CaioSouzx00"><img src="https://img.shields.io/badge/NVIDIA_Agents-0F1A14?style=for-the-badge&logo=nvidia&logoColor=34D399" /></a>
+<a href="https://github.com/CaioSouzx00"><img src="https://img.shields.io/badge/NVIDIA_Skills-0F1A14?style=for-the-badge&logo=nvidia&logoColor=34D399" /></a>
+<a href="https://github.com/CaioSouzx00"><img src="https://img.shields.io/badge/Homomorphic_Encryption-0F1A14?style=for-the-badge&logo=gnuprivacyguard&logoColor=34D399" /></a>
 
-<!-- Badges — fundo preto, tons de verde -->
-<p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/NVIDIA-000000?style=for-the-badge&logo=nvidia&logoColor=76B900" />
-  <img src="https://img.shields.io/badge/NVIDIA_NIM-000000?style=for-the-badge&logo=nvidia&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=probot&logoColor=22C55E" />
-  <img src="https://img.shields.io/badge/Agent_Skills-000000?style=for-the-badge&logo=githubcopilot&logoColor=4ADE80" />
-  <img src="https://img.shields.io/badge/Homomorphic_Encryption-000000?style=for-the-badge&logo=gnuprivacyguard&logoColor=00FF41" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=22C55E" />
-  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=4ADE80" />
-  <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=16A34A" />
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=86EFAC" />
-  <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=22C55E" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=39FF14" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=4ADE80" />
-  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=16A34A" />
-  <img src="https://img.shields.io/badge/Hono-000000?style=for-the-badge&logo=hono&logoColor=86EFAC" />
-  <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=22C55E" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=BBF7D0" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4ADE80" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=22C55E" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=86EFAC" />
-  <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=16A34A" />
-  <img src="https://img.shields.io/badge/Fly.io-000000?style=for-the-badge&logo=flydotio&logoColor=4ADE80" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=39FF14" />
-</p>
+<br/><br/>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=CaioSouzx00&style=for-the-badge&color=00C853&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=CaioSouzx00&style=flat-square&color=10B981&labelColor=0F1A14&label=VIEWS" />
 
 </div>
 
----
+<br/>
 
-## 🟩 Foco Técnico Atual
+## Foco atual
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/RUST_%26_SYSTEMS-000000?style=for-the-badge&logo=rust&logoColor=00FF41&labelColor=052E16" />
-
-Ownership · Concorrência segura · Performance sem GC
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/CRIPTOGRAFIA_HOMOMÓRFICA-000000?style=for-the-badge&logo=gnuprivacyguard&logoColor=39FF14&labelColor=14532D" />
-
-FHE · Computação sobre dados cifrados · Privacy-preserving
+**Rust & Sistemas**<br/>
+<sub>Ownership, concorrência segura e performance sem GC.</sub>
 
 </td>
     <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/NVIDIA_AGENTS_%26_SKILLS-000000?style=for-the-badge&logo=nvidia&logoColor=76B900&labelColor=052E16" />
+**Criptografia Homomórfica**<br/>
+<sub>Computação sobre dados cifrados, sem expor o dado em claro.</sub>
 
-NIM API · Agentes com tool calling · Skills reutilizáveis
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-<br/><br/>
+**Agentes & Skills (NVIDIA NIM)**<br/>
+<sub>Agentes com tool calling, skills reutilizáveis e LLMs via API.</sub>
 
-<img src="https://img.shields.io/badge/BACKEND_%26_ARQUITETURA-000000?style=for-the-badge&logo=springboot&logoColor=4ADE80&labelColor=14532D" />
+</td>
+    <td width="50%" valign="top">
 
-Microsserviços · Event-driven · DDD · Hardening de APIs
+**Backend & Arquitetura**<br/>
+<sub>Microsserviços, event-driven, DDD e hardening de APIs.</sub>
 
 </td>
   </tr>
 </table>
 
----
+<br/>
 
-## ⚡ Stack Completa
+## Stack
 
 <table>
   <tr>
-    <th width="25%"><img src="https://img.shields.io/badge/BACK--END-00C853?style=for-the-badge&labelColor=000000" /></th>
-    <th width="25%"><img src="https://img.shields.io/badge/DADOS_%26_DEVOPS-22C55E?style=for-the-badge&labelColor=000000" /></th>
-    <th width="25%"><img src="https://img.shields.io/badge/IA_%26_SEGURANÇA-39FF14?style=for-the-badge&labelColor=000000" /></th>
-    <th width="25%"><img src="https://img.shields.io/badge/FRONT--END_%26_OUTROS-4ADE80?style=for-the-badge&labelColor=000000" /></th>
+    <td width="150" valign="middle"><sub><b>BACK-END</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-0F1A14?style=flat-square&logo=openjdk&logoColor=34D399" />
+      <img src="https://img.shields.io/badge/Spring_Boot-0F1A14?style=flat-square&logo=springboot&logoColor=34D399" />
+      <img src="https://img.shields.io/badge/Rust-0F1A14?style=flat-square&logo=rust&logoColor=34D399" />
+      <img src="https://img.shields.io/badge/PHP-0F1A14?style=flat-square&logo=php&logoColor=34D399" />
+      <img src="https://img.shields.io/badge/Laravel-0F1A14?style=flat-square&logo=laravel&logoColor=34D399" />
+      <img src="https://img.shields.io/badge/Node.js-0F1A14?style=flat-square&logo=node.js&logoColor=34D399" />
+      <img src="https://img.shields.io/badge/TypeScript-0F1A14?style=flat-square&logo=typescript&logoColor=34D399" />
+      <img src="https://img.shields.io/badge/Hono-0F1A14?style=flat-square&logo=hono&logoColor=34D399" />
+      <img src="https://img.shields.io/badge/FastAPI-0F1A14?style=flat-square&logo=fastapi&logoColor=34D399" />
+      <img src="https://img.shields.io/badge/Kotlin-0F1A14?style=flat-square&logo=kotlin&logoColor=34D399" />
+      <img src="https://img.shields.io/badge/Dart-0F1A14?style=flat-square&logo=dart&logoColor=34D399" />
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Java-principal-000000?style=flat-square&logo=openjdk&logoColor=00FF41" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/PostgreSQL-principal-000000?style=flat-square&logo=postgresql&logoColor=00FF41" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/NVIDIA_NIM-llm_api-000000?style=flat-square&logo=nvidia&logoColor=76B900" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/React.js-intermediário-000000?style=flat-square&logo=react&logoColor=22C55E" /></td>
+    <td valign="middle"><sub><b>DADOS & DEVOPS</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-0F1A14?style=flat-square&logo=postgresql&logoColor=34D399" />
+      <img src="https://img.shields.io/badge/MySQL-0F1A14?style=flat-square&logo=mysql&logoColor=34D399" />
+      <img src="https://img.shields.io/badge/MongoDB-0F1A14?style=flat-square&logo=mongodb&logoColor=34D399" />
+      <img src="https://img.shields.io/badge/Oracle-0F1A14?style=flat-square&logo=oracle&logoColor=34D399" />
+      <img src="https://img.shields.io/badge/Docker-0F1A14?style=flat-square&logo=docker&logoColor=34D399" />
+      <img src="https://img.shields.io/badge/Linux-0F1A14?style=flat-square&logo=linux&logoColor=34D399" />
+      <img src="https://img.shields.io/badge/Git-0F1A14?style=flat-square&logo=git&logoColor=34D399" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-0F1A14?style=flat-square&logo=githubactions&logoColor=34D399" />
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Spring_Boot-principal-000000?style=flat-square&logo=springboot&logoColor=00FF41" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/MySQL-avançado-000000?style=flat-square&logo=mysql&logoColor=22C55E" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/AI_Agents-agentes-000000?style=flat-square&logo=probot&logoColor=39FF14" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Next.js-intermediário-000000?style=flat-square&logo=nextdotjs&logoColor=BBF7D0" /></td>
+    <td valign="middle"><sub><b>IA & SEGURANÇA</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/NVIDIA_NIM-0F1A14?style=flat-square&logo=nvidia&logoColor=34D399" />
+      <img src="https://img.shields.io/badge/AI_Agents-0F1A14?style=flat-square&logo=probot&logoColor=34D399" />
+      <img src="https://img.shields.io/badge/Agent_Skills-0F1A14?style=flat-square&logo=githubcopilot&logoColor=34D399" />
+      <img src="https://img.shields.io/badge/Homomorphic_Encryption-0F1A14?style=flat-square&logo=gnuprivacyguard&logoColor=34D399" />
+      <img src="https://img.shields.io/badge/n8n-0F1A14?style=flat-square&logo=n8n&logoColor=34D399" />
+      <img src="https://img.shields.io/badge/Webhooks-0F1A14?style=flat-square&logo=webhooks&logoColor=34D399" />
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Rust-em_foco-000000?style=flat-square&logo=rust&logoColor=00FF41" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/MongoDB-intermediário-000000?style=flat-square&logo=mongodb&logoColor=4ADE80" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Agent_Skills-skills-000000?style=flat-square&logo=githubcopilot&logoColor=4ADE80" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Vue.js-intermediário-000000?style=flat-square&logo=vuedotjs&logoColor=16A34A" /></td>
+    <td valign="middle"><sub><b>CLOUD</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Fly.io-0F1A14?style=flat-square&logo=flydotio&logoColor=34D399" />
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/PHP-avançado-000000?style=flat-square&logo=php&logoColor=86EFAC" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Oracle-intermediário-000000?style=flat-square&logo=oracle&logoColor=16A34A" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/FHE-homomórfica-000000?style=flat-square&logo=gnuprivacyguard&logoColor=00FF41" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/TypeScript-avançado-000000?style=flat-square&logo=typescript&logoColor=4ADE80" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Laravel-avançado-000000?style=flat-square&logo=laravel&logoColor=22C55E" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Docker-avançado-000000?style=flat-square&logo=docker&logoColor=86EFAC" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/n8n-automação%2Fia-000000?style=flat-square&logo=n8n&logoColor=16A34A" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/COBOL-intermediário-000000?style=flat-square&logo=ibm&logoColor=4ADE80" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Node.js-avançado-000000?style=flat-square&logo=node.js&logoColor=39FF14" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Linux-avançado-000000?style=flat-square&logo=linux&logoColor=39FF14" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Fly.io-deploy%2Finfra-000000?style=flat-square&logo=flydotio&logoColor=4ADE80" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/C%2FC%2B%2B-intermediário-000000?style=flat-square&logo=cplusplus&logoColor=22C55E" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Hono_RPC-intermediário-000000?style=flat-square&logo=hono&logoColor=86EFAC" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Git-principal-000000?style=flat-square&logo=git&logoColor=00FF41" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/CI%2FCD-github_actions-000000?style=flat-square&logo=githubactions&logoColor=22C55E" /></td>
-    <td align="center">&nbsp;</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/FastAPI-intermediário-000000?style=flat-square&logo=fastapi&logoColor=00FF41" /></td>
-    <td align="center">&nbsp;</td>
-    <td align="center"><img src="https://img.shields.io/badge/Webhooks-integrações-000000?style=flat-square&logo=webhooks&logoColor=4ADE80" /></td>
-    <td align="center">&nbsp;</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Kotlin-intermediário-000000?style=flat-square&logo=kotlin&logoColor=16A34A" /></td>
-    <td align="center">&nbsp;</td>
-    <td align="center">&nbsp;</td>
-    <td align="center">&nbsp;</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Dart-intermediário-000000?style=flat-square&logo=dart&logoColor=86EFAC" /></td>
-    <td align="center">&nbsp;</td>
-    <td align="center">&nbsp;</td>
-    <td align="center">&nbsp;</td>
+    <td valign="middle"><sub><b>FRONT-END & OUTROS</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-0F1A14?style=flat-square&logo=react&logoColor=34D399" />
+      <img src="https://img.shields.io/badge/Next.js-0F1A14?style=flat-square&logo=nextdotjs&logoColor=34D399" />
+      <img src="https://img.shields.io/badge/Vue.js-0F1A14?style=flat-square&logo=vuedotjs&logoColor=34D399" />
+      <img src="https://img.shields.io/badge/C-0F1A14?style=flat-square&logo=c&logoColor=34D399" />
+      <img src="https://img.shields.io/badge/C++-0F1A14?style=flat-square&logo=cplusplus&logoColor=34D399" />
+      <img src="https://img.shields.io/badge/COBOL-0F1A14?style=flat-square&logo=ibm&logoColor=34D399" />
+    </td>
   </tr>
 </table>
 
----
+<br/>
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioSouzx00&show_icons=true&hide_border=true&bg_color=00000000&title_color=00FF41&icon_color=22C55E&text_color=86EFAC&ring_color=39FF14&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSouzx00&layout=compact&hide_border=true&bg_color=00000000&title_color=00FF41&text_color=86EFAC&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=CaioSouzx00&hide_border=true&background=00000000&stroke=14532D&ring=00FF41&fire=39FF14&currStreakNum=00FF41&sideNums=22C55E&currStreakLabel=4ADE80&sideLabels=86EFAC&dates=16A34A" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioSouzx00&hide_border=true&bg_color=000000&color=00FF41&line=22C55E&point_color=39FF14&area=true&area_color=052E16&radius=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=CaioSouzx00&theme=matrix&no-frame=true&no-bg=true&row=1&margin-w=15" />
-
-</div>
-
----
-
-## 🧪 Projetos
+## Projetos
 
 | Projeto | Stack | Arquitetura | Status |
 |:--------|:------|:------------|:------:|
-| **[Hydrax](https://github.com/CaioSouzx00/hydrax)** | Laravel · PHP · PostgreSQL | MVC · REST · Transactional Email | ![Active](https://img.shields.io/badge/active-00C853?style=flat-square) |
-| **[Investment Aggregator](https://github.com/CaioSouzx00/investment-aggregator)** | Java · Spring Boot · PostgreSQL | DDD · Clean Architecture | ![Active](https://img.shields.io/badge/active-00C853?style=flat-square) |
-| **Backend Moderno** | Hono RPC · Node.js · TypeScript | Type-safe RPC · Edge-ready | ![WIP](https://img.shields.io/badge/wip-86EFAC?style=flat-square) |
-| **n8n + NVIDIA NIM Automation** | n8n · NVIDIA NIM API · Fly.io | Event-driven · Automação de mensagens | ![Active](https://img.shields.io/badge/active-00C853?style=flat-square) |
-| **Replica Spotify** | React.js · JavaScript | SPA · Component-driven | ![Done](https://img.shields.io/badge/done-14532D?style=flat-square) |
+| **[Hydrax](https://github.com/CaioSouzx00/hydrax)** | Laravel · PHP · PostgreSQL | MVC · REST · Transactional Email | ![active](https://img.shields.io/badge/active-10B981?style=flat-square&labelColor=0F1A14) |
+| **[Investment Aggregator](https://github.com/CaioSouzx00/investment-aggregator)** | Java · Spring Boot · PostgreSQL | DDD · Clean Architecture | ![active](https://img.shields.io/badge/active-10B981?style=flat-square&labelColor=0F1A14) |
+| **Backend Moderno** | Hono RPC · Node.js · TypeScript | Type-safe RPC · Edge-ready | ![wip](https://img.shields.io/badge/wip-6EE7B7?style=flat-square&labelColor=0F1A14) |
+| **n8n + NVIDIA NIM Automation** | n8n · NVIDIA NIM API · Fly.io | Event-driven · Automação de mensagens | ![active](https://img.shields.io/badge/active-10B981?style=flat-square&labelColor=0F1A14) |
+| **Replica Spotify** | React · JavaScript | SPA · Component-driven | ![done](https://img.shields.io/badge/done-065F46?style=flat-square&labelColor=0F1A14) |
 
----
+<br/>
 
-## 🔐 Em Estudo
-
-```text
-> rust          →  sistemas seguros, concorrência e performance
-> fhe           →  computação sobre dados cifrados (criptografia homomórfica)
-> nvidia nim    →  agentes de IA com tool calling e skills reutilizáveis
-> hardening     →  OWASP · Auth/AuthZ · segurança de APIs
-```
-
----
-
-## 🌐 Contato
+## GitHub
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-CaioSouzx00-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/CaioSouzx00)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Caio_Souza-000000?style=for-the-badge&logo=linkedin&logoColor=22C55E)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-contato-000000?style=for-the-badge&logo=gmail&logoColor=4ADE80)](mailto:seu@email.com)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CaioSouzx00&show_icons=true&include_all_commits=true&count_private=true&bg_color=0F1A14&border_color=14301F&border_radius=10&title_color=34D399&icon_color=10B981&text_color=A7F3D0&ring_color=34D399" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSouzx00&layout=compact&langs_count=8&bg_color=0F1A14&border_color=14301F&border_radius=10&title_color=34D399&text_color=A7F3D0" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=CaioSouzx00&background=0F1A14&border=14301F&stroke=14301F&ring=10B981&fire=34D399&currStreakNum=6EE7B7&sideNums=A7F3D0&currStreakLabel=34D399&sideLabels=6B8F7B&dates=6B8F7B&border_radius=10" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioSouzx00&bg_color=0B0F0C&color=34D399&line=10B981&point_color=6EE7B7&area=true&area_color=10B981&hide_border=true&hide_title=true&radius=10" />
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:052E16,100:000000&height=100&section=footer" />
+## Contato
 
 <div align="center">
-<sub>
-  <img src="https://img.shields.io/badge/Técnico_em_Informática-ETEC-000000?style=flat-square&labelColor=052E16&color=00C853" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Backend_Developer-Goiás,_BR-000000?style=flat-square&labelColor=052E16&color=00C853" />
-</sub>
+
+<a href="https://github.com/CaioSouzx00"><img src="https://img.shields.io/badge/GitHub-0F1A14?style=for-the-badge&logo=github&logoColor=34D399" /></a>
+<a href="https://linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0F1A14?style=for-the-badge&logo=linkedin&logoColor=34D399" /></a>
+<a href="mailto:seu@email.com"><img src="https://img.shields.io/badge/Email-0F1A14?style=for-the-badge&logo=gmail&logoColor=34D399" /></a>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:065F46,60:0F2A1D,100:0B0F0C&height=90&section=footer" />
+
+<div align="center">
+<sub>Técnico em Informática · ETEC &nbsp;·&nbsp; Backend Developer · Goiás, BR</sub>
 </div>
